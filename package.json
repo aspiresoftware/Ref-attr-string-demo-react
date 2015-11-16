@@ -1,0 +1,17 @@
+{
+  "name": "refdemo",
+  "version": "1.0.0",
+  "description": "It allows you rotate x,y,z and the angle",
+  "main": "index.js",
+  "scripts": {
+    "test": "watchify index.js -v -t babelify -o build.js"
+  },
+  "author": "Dhaval Shah",
+  "license": "ISC",
+  "dependencies": {
+    "babelify": "^6.4.0",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "watchify": "^3.5.0"
+  }
+}
