@@ -1,9 +1,15 @@
 # Basic example of using React 
 
-Run `npm install` in the directory to install React from npm. Then run:
+# Run following commands in terminal
 
-```sh
-npm test
-```
+  - npm install --global babel-cli
+  - npm install
+  - bower install
+  - start server using :```  python -m SimpleHTTPServer ``` 
+  - npm test
+  - open page: [localhost:8000]
 
-to produce `build.js` with example code and React.
+
+
+  [localhost:8000]: <http://localhost:8000>
+  

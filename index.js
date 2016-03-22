@@ -28,7 +28,7 @@ var Direction = React.createClass({
                 'backface-visibility':'visible',
                 '-webkit-backface-visibility':'visible',
                   'transition': 'transform 1s ease-in-out',
-                  'background':'url(\'http://jsfiddle.net/img/initializing.png\') no-repeat',
+                  'background':'url(\'http://aspiresoftware.in/images/aspire_new_logo.png\') no-repeat',
                   'margin':'auto'
 
             },
